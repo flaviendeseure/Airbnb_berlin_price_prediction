@@ -13,12 +13,6 @@ This project aims to predict the price of a night's accommodation offered on the
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Notebook](#notebook)
-- [Data Vizualisation](#data-vizualisation)
-  - [Features](#features)
-  - [Targets](#targets)
-- [Preprocessing](#preprocessing)
-  - [Features](#features)
-  - [Targets](#targets)
 - [Modeling](#modeling)
 - [Selected models](#selected-models)
 - [Conclusion](#conclusion)
@@ -36,41 +30,6 @@ pip install -r requirements.txt
 
 ### Notebook
 Simply launch the notebook on jupyter!
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Data Vizualisation
-### Features
-
-
-### Targets
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Preprocessing
-### Features
-
-
-
-### Targets
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Modeling
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Selected models
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Conclusion
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
