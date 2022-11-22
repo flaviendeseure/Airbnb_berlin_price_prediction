@@ -13,9 +13,6 @@ This project aims to predict the price of a night's accommodation offered on the
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Notebook](#notebook)
-- [Modeling](#modeling)
-- [Selected models](#selected-models)
-- [Conclusion](#conclusion)
 
 ## Getting Started
 ### Prerequisites
